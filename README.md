@@ -2,7 +2,7 @@
 Concurrent Training and Serving of Large Language Models on Distributed Systems
 
 
-## An illustration of Separate and Mix schuduling under concurrent workloads
+## An illustration of Separate and Mix under concurrent workloads
 
 - Separate training and inference
 <p align="center">
