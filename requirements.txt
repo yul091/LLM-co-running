@@ -1,0 +1,17 @@
+matplotlib
+evaluate
+torch
+torchvision
+torchaudio
+charset_normalizer
+datasets==2.16.1
+transformers[torch]==4.36.2
+wandb
+scipy
+seaborn
+portalocker
+torchdata
+torchtext
+gputil
+memory_profiler
+fschat[model_worker,webui]
